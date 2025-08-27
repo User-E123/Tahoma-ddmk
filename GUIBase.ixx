@@ -62,7 +62,7 @@ export void BuildFonts()
 		(
 			overlayFont,
 			sizeof(overlayFont),
-			"%s\\Fonts\\consola.ttf",
+			"%s\\Fonts\\tahoma.ttf",
 			buffer
 		);
 	}
